@@ -2,29 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/NProxy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/app_class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/app_deploy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/view/app_list.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/app_list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/app_manager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/init.d.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/view/_footer.hjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/view/_header.hjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fish_tank-master.zip" afterPath="$PROJECT_DIR$/fish_tank-master.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_test/fish_tank-master/app.js" afterPath="$PROJECT_DIR$/_test/fish_tank-master/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_class.js" afterPath="$PROJECT_DIR$/lib/app_class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/app_list.hjs" afterPath="$PROJECT_DIR$/assets/view/app_list.hjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/app_list.js" afterPath="$PROJECT_DIR$/routes/app_list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_manager.js" afterPath="$PROJECT_DIR$/lib/app_manager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394479730578" ignored="false" />
-    <file path="/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563736605" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649521524" ignored="false" />
+    <file path="/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394658677600" ignored="false" />
     <file path="/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563369528" ignored="false" />
     <file path="/setup_box.ssh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394411817572" ignored="false" />
     <file path="/init.d.sh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394412148157" ignored="false" />
@@ -58,15 +54,22 @@
     <file path="$PROJECT_DIR$/../vpr2/routes/developers/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394547299043" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/public/templates/_main_nav.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394548044771" ignored="false" />
     <file path="/_main_nav.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394548044771" ignored="false" />
-    <file path="/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394628907891" ignored="false" />
-    <file path="/package.json" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394553604349" ignored="false" />
-    <file path="/app_list.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394635028778" ignored="false" />
+    <file path="/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649475566" ignored="false" />
+    <file path="/package.json" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394651448777" ignored="false" />
+    <file path="/app_list.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394654594816" ignored="false" />
     <file path="/app_deploy.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563349275" ignored="false" />
     <file path="/test.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394553414105" ignored="false" />
     <file path="/forever_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394562575754" ignored="false" />
-    <file path="/app_class.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394635284376" ignored="false" />
-    <file path="/a.dummy" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394633642485" ignored="false" />
-    <file path="/app_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394635433029" ignored="false" />
+    <file path="/app_class.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394643239180" ignored="false" />
+    <file path="/a.dummy" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394652337719" ignored="false" />
+    <file path="/app_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394654356164" ignored="false" />
+    <file path="/app_list.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394657460673" ignored="false" />
+    <file path="$PROJECT_DIR$/../fish_tank/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394642191932" ignored="false" />
+    <file path="/default.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649724349" ignored="false" />
+    <file path="/_header.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394658823568" ignored="false" />
+    <file path="/controlers.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394657131932" ignored="false" />
+    <file path="/services.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394658697935" ignored="false" />
+    <file path="/controllers.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394659084837" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,73 +89,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="50" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+            <state line="18" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4247312">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_class.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_header.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/view/_header.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="43" selection-start="932" selection-end="932" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_class.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_class.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="762" selection-end="762" vertical-scroll-proportion="0.33103448">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_manager.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_list.hjs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/view/app_list.hjs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="29" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="-10.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_deploy.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/app_deploy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="47" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+            <state line="59" column="0" selection-start="1823" selection-end="1823" vertical-scroll-proportion="-35.4">
               <folding />
             </state>
           </provider>
@@ -161,7 +119,52 @@
       <file leaf-file-name="app_list.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/app_list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_manager.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="57" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_list.hjs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/view/app_list.hjs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="22" selection-start="37" selection-end="37" vertical-scroll-proportion="-0.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="24" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -185,26 +188,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/bin/setup_box.ssh" />
-        <option value="$PROJECT_DIR$/bin/init.d.sh" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/lib/config.js" />
-        <option value="$PROJECT_DIR$/_test/test.js" />
-        <option value="$PROJECT_DIR$/lib/forever_manager.js" />
-        <option value="$PROJECT_DIR$/lib/app.js" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/routes/app_deploy.js" />
-        <option value="$PROJECT_DIR$/config.js" />
-        <option value="$PROJECT_DIR$/routes/app_list.js" />
+        <option value="$PROJECT_DIR$/_test/fish_tank-master/app.js" />
         <option value="$PROJECT_DIR$/lib/app_class.js" />
+        <option value="$PROJECT_DIR$/assets/view/default.hjs" />
+        <option value="$PROJECT_DIR$/assets/view/default.hbs" />
+        <option value="$PROJECT_DIR$/assets/view/_body.hjs" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/app_list.js" />
         <option value="$PROJECT_DIR$/lib/app_manager.js" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/assets/js/controlers.js" />
+        <option value="$PROJECT_DIR$/assets/view/app_list.hjs" />
+        <option value="$PROJECT_DIR$/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/assets/view/_header.hjs" />
+        <option value="$PROJECT_DIR$/assets/js/services.js" />
+        <option value="$PROJECT_DIR$/assets/js/controllers.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1302" />
+    <option name="x" value="64" />
     <option name="y" value="764" />
     <option name="width" value="1303" />
     <option name="height" value="773" />
@@ -253,84 +258,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fish_tank-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -339,8 +266,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ghost" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vpr2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -405,6 +332,23 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="" />
@@ -414,26 +358,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1302" y="764" width="1303" height="773" extended-state="6" />
+    <frame x="64" y="764" width="1303" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3426295" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3426295" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -500,141 +444,138 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/routes/app_deploy.js</url>
-          <line>12</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/node_modules/forever/lib/forever.js</url>
+          <line>590</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/app_class.js</url>
-          <line>112</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/node_modules/hjs/lib/express.js</url>
+          <line>77</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/app_class.js</url>
-          <line>26</line>
-          <option name="timeStamp" value="22" />
+          <url>file://$PROJECT_DIR$/routes/app_list.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/app_class.js</url>
-          <line>39</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/app_manager.js</url>
-          <line>29</line>
-          <option name="timeStamp" value="26" />
+          <url>file://$PROJECT_DIR$/routes/app_list.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="49" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bin/init.d.sh">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="90" selection-end="90" vertical-scroll-proportion="0.09983361" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/setup_box.ssh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0">
+        <state line="19" column="12" selection-start="478" selection-end="478" vertical-scroll-proportion="-8.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/node_modules/hjs/lib/express.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.07679181">
+        <state line="45" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.2924791">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_test/test.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+        <state line="77" column="0" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.74930364">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/github/api/v3.0.0/repos.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1303" column="0" selection-start="58389" selection-end="58389" vertical-scroll-proportion="0.33333334">
+        <state line="498" column="0" selection-start="11327" selection-end="11327" vertical-scroll-proportion="0.29301074">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/github/index.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="628" column="7" selection-start="25004" selection-end="25004" vertical-scroll-proportion="0.26785713">
+        <state line="797" column="0" selection-start="18694" selection-end="18694" vertical-scroll-proportion="0.6946565">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="29" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="47" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0">
+        <state line="33" column="43" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.48467967">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/app_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/app_list.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="482" selection-end="482" vertical-scroll-proportion="-10.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="50" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/async/lib/async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="0" selection-start="4037" selection-end="4037" vertical-scroll-proportion="0.33231708">
+        <state line="12" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/app_deploy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+        <state line="47" column="57" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_class.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="762" selection-end="762" vertical-scroll-proportion="0.33103448">
+        <state line="59" column="0" selection-start="1823" selection-end="1823" vertical-scroll-proportion="-35.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/_footer.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="297" selection-end="297" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/_header.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="43" selection-start="932" selection-end="932" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/app_list.hjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="37" selection-end="37" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4247312">
           <folding />
         </state>
       </provider>
