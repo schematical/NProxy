@@ -1,5 +1,11 @@
 module.exports = config = {
+    root_pass:'testtest',
     app_dir:__dirname + '/_test',
+    proxy_port:3000,
+    default_git_user:{
+        username:'schematical',
+        password:'t3acht3ach'
+    },
     apps:{
         fish_tank: {
             name:'Welcome to the Fishtank',

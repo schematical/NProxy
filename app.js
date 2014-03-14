@@ -4,7 +4,8 @@ var router = require('./routes');
 var config = require('./config');
 var vhost = require('vhost');
 var path = require('path');
-var socket_io = require('socket.io');
+var socket = require('./lib/socket');
+var fs = require('fs');
 
 //
 // Create your proxy server and set the target in the options.
@@ -15,7 +16,10 @@ app.set('port', process.env.PORT || 3080);
 
 app.set('views', path.join(__dirname, 'assets/view'));
 app.set('view engine', 'hjs');
-
+app.engine('html', function(path, options, callback){
+    var html = fs.readFileSync(path, 'utf8');
+    return callback(null, html);
+});
 
 app.use(express.static(path.join(__dirname, 'assets')));
 app.use(express.bodyParser());
@@ -32,15 +36,7 @@ app.configure(function(){
     router(app);
 });
 var server = http.createServer(app).listen(app.get('port'), function(){
-    app.io = socket_io.listen(server);
-
     console.log('Express server listening on port ' + app.get('port'));
-
-    app.io.sockets.on('connection', function (socket) {
-        socket.emit('news', { hello: 'world' });
-        socket.on('my other event', function (data) {
-            console.log(data);
-        });
-    });
+    socket.listen(server, app);
 });
 

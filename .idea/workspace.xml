@@ -2,25 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/view/_footer.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/view/_header.hjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/controllers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fish_tank-master.zip" afterPath="$PROJECT_DIR$/fish_tank-master.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/lib/asani2Html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/socket.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/cmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/fish.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/fish_tank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/public/stylesheets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/public/stylesheets/style.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/public/views/index.hjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/routes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/routes/user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/cmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/fish.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/fish_tank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/public/stylesheets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/public/stylesheets/style.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/public/views/index.hjs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/routes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/routes/user.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/view/_footer.hjs" afterPath="$PROJECT_DIR$/assets/view/_footer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/view/_header.hjs" afterPath="$PROJECT_DIR$/assets/view/_header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/view/app_list.hjs" afterPath="$PROJECT_DIR$/assets/view/app_list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_test/fish_tank-master/app.js" afterPath="$PROJECT_DIR$/_test/fish_tank-master/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_class.js" afterPath="$PROJECT_DIR$/lib/app_class.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/app_list.hjs" afterPath="$PROJECT_DIR$/assets/view/app_list.hjs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/app_list.js" afterPath="$PROJECT_DIR$/routes/app_list.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_manager.js" afterPath="$PROJECT_DIR$/lib/app_manager.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/controllers.js" afterPath="$PROJECT_DIR$/assets/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/services.js" afterPath="$PROJECT_DIR$/assets/js/services.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649521524" ignored="false" />
-    <file path="/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394658677600" ignored="false" />
+    <file path="/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394715899955" ignored="false" />
     <file path="/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563369528" ignored="false" />
     <file path="/setup_box.ssh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394411817572" ignored="false" />
     <file path="/init.d.sh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394412148157" ignored="false" />
@@ -54,22 +87,25 @@
     <file path="$PROJECT_DIR$/../vpr2/routes/developers/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394547299043" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/public/templates/_main_nav.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394548044771" ignored="false" />
     <file path="/_main_nav.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394548044771" ignored="false" />
-    <file path="/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649475566" ignored="false" />
+    <file path="/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394745300075" ignored="false" />
     <file path="/package.json" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394651448777" ignored="false" />
     <file path="/app_list.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394654594816" ignored="false" />
     <file path="/app_deploy.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563349275" ignored="false" />
     <file path="/test.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394553414105" ignored="false" />
     <file path="/forever_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394562575754" ignored="false" />
-    <file path="/app_class.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394643239180" ignored="false" />
+    <file path="/app_class.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394744885098" ignored="false" />
     <file path="/a.dummy" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394652337719" ignored="false" />
-    <file path="/app_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394654356164" ignored="false" />
+    <file path="/app_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394745425033" ignored="false" />
     <file path="/app_list.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394657460673" ignored="false" />
     <file path="$PROJECT_DIR$/../fish_tank/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394642191932" ignored="false" />
     <file path="/default.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649724349" ignored="false" />
     <file path="/_header.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394658823568" ignored="false" />
     <file path="/controlers.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394657131932" ignored="false" />
-    <file path="/services.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394658697935" ignored="false" />
-    <file path="/controllers.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394659084837" ignored="false" />
+    <file path="/services.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394717582469" ignored="false" />
+    <file path="/controllers.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394737347637" ignored="false" />
+    <file path="/app_list.html" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394744323128" ignored="false" />
+    <file path="/socket.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394744254266" ignored="false" />
+    <file path="/remove.html" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394718677809" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,19 +125,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4247312">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.hjs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/view/_header.hjs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="43" selection-start="932" selection-end="932" vertical-scroll-proportion="-12.5">
+            <state line="37" column="13" selection-start="940" selection-end="987" vertical-scroll-proportion="-8.12">
               <folding />
             </state>
           </provider>
@@ -110,16 +137,16 @@
       <file leaf-file-name="app_class.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_class.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="0" selection-start="1823" selection-end="1823" vertical-scroll-proportion="-35.4">
+            <state line="27" column="68" selection-start="930" selection-end="930" vertical-scroll-proportion="32.4">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_list.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/app_list.js">
+      <file leaf-file-name="socket.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/socket.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+            <state line="113" column="31" selection-start="3615" selection-end="3615" vertical-scroll-proportion="-11.12">
               <folding />
             </state>
           </provider>
@@ -128,43 +155,43 @@
       <file leaf-file-name="app_manager.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="57" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0">
+            <state line="4" column="4" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_list.hjs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/view/app_list.hjs">
+      <file leaf-file-name="http-proxy.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="22" selection-start="37" selection-end="37" vertical-scroll-proportion="-0.625">
+            <state line="52" column="0" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/controllers.js">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="24" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+            <state line="103" column="0" selection-start="2851" selection-end="2851" vertical-scroll-proportion="0.85714287">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <file leaf-file-name="app_list.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
+            <state line="55" column="71" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/services.js">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+            <state line="3" column="20" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -188,22 +215,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_test/fish_tank-master/app.js" />
-        <option value="$PROJECT_DIR$/lib/app_class.js" />
-        <option value="$PROJECT_DIR$/assets/view/default.hjs" />
-        <option value="$PROJECT_DIR$/assets/view/default.hbs" />
-        <option value="$PROJECT_DIR$/assets/view/_body.hjs" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/routes/app_list.js" />
-        <option value="$PROJECT_DIR$/lib/app_manager.js" />
-        <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/assets/js/controlers.js" />
         <option value="$PROJECT_DIR$/assets/view/app_list.hjs" />
         <option value="$PROJECT_DIR$/assets/js/app.js" />
         <option value="$PROJECT_DIR$/assets/view/_header.hjs" />
+        <option value="$PROJECT_DIR$/routes/app_list.js" />
         <option value="$PROJECT_DIR$/assets/js/services.js" />
-        <option value="$PROJECT_DIR$/assets/js/controllers.js" />
+        <option value="$PROJECT_DIR$/_test/remove.html" />
+        <option value="$PROJECT_DIR$/assets/lib/asani2Html.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/assets/js/controllers.js" />
+        <option value="$PROJECT_DIR$/lib/socket.js" />
+        <option value="$PROJECT_DIR$/assets/view/app_list.html" />
+        <option value="$PROJECT_DIR$/lib/app_class.js" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/lib/app_manager.js" />
       </list>
     </option>
   </component>
@@ -255,6 +282,148 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="underscore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http-proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="passes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NProxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,15 +534,15 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3426295" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24701196" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -454,128 +623,168 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/routes/app_list.js</url>
-          <line>4</line>
-          <option name="timeStamp" value="47" />
+          <url>file://$PROJECT_DIR$/lib/socket.js</url>
+          <line>104</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/routes/app_list.js</url>
-          <line>10</line>
-          <option name="timeStamp" value="48" />
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>92</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>123</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>140</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>117</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>155</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>99</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</url>
+          <line>103</line>
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="49" />
+      <option name="time" value="89" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/forever/lib/forever/worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="12" selection-start="478" selection-end="478" vertical-scroll-proportion="-8.875">
+        <state line="92" column="0" selection-start="2341" selection-end="2341" vertical-scroll-proportion="0.33231708">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hjs/lib/express.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/connect.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.2924791">
+        <state line="64" column="0" selection-start="883" selection-end="945" vertical-scroll-proportion="0.31232092">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/forever/lib/forever.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="0" selection-start="1819" selection-end="1819" vertical-scroll-proportion="0.74930364">
+        <state line="456" column="0" selection-start="12186" selection-end="12186" vertical-scroll-proportion="0.31232092">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/forever-monitor/lib/forever-monitor/monitor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="498" column="0" selection-start="11327" selection-end="11327" vertical-scroll-proportion="0.29301074">
+        <state line="194" column="0" selection-start="5302" selection-end="5302" vertical-scroll-proportion="0.2773537">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/response.js">
+    <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="797" column="0" selection-start="18694" selection-end="18694" vertical-scroll-proportion="0.6946565">
+        <state line="55" column="71" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/node_modules/eventemitter3/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="735" selection-end="735" vertical-scroll-proportion="0.33231708">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/proto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="0" selection-start="2378" selection-end="2378" vertical-scroll-proportion="0.35365853">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="43" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.48467967">
+        <state line="3" column="20" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/app_list.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/vhost/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="57" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_class.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1823" selection-end="1823" vertical-scroll-proportion="-35.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/_footer.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="7" selection-start="297" selection-end="297" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/_header.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="932" selection-end="932" vertical-scroll-proportion="-12.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="65" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/app_list.hjs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="37" selection-end="37" vertical-scroll-proportion="-0.625">
+        <state line="27" column="68" selection-start="930" selection-end="930" vertical-scroll-proportion="32.4">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.4247312">
+        <state line="37" column="13" selection-start="940" selection-end="987" vertical-scroll-proportion="-8.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.8932927">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="31" selection-start="3615" selection-end="3615" vertical-scroll-proportion="-11.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="0" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="0" selection-start="2851" selection-end="2851" vertical-scroll-proportion="0.85714287">
           <folding />
         </state>
       </provider>
