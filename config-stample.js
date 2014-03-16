@@ -46,7 +46,8 @@ module.exports = config = {
                  */
                 path:'',
                 user:'schematical',
-                repo:'ionic_ghost_theme'
+                repo:'ionic_ghost_theme',
+                deploy_to_dir:'/var/www/ghost/content/themes/git_ionic_test'
             },
             //wd:'/var/www/NProxy/_test/fish_tank-master',
             /* process:{
