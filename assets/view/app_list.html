@@ -78,7 +78,7 @@
                                 <span class="sr-only">Toggle Dropdown</span>
                             </button>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="#{{ app._id }}" data-toggle="modal" data-target="#deploy_form" >Deploy</a></li>
+                                <li><a href="#{{ app._id }}" data-toggle="modal" data-target="#deploy_form" ng-click='follow(app)' >Deploy</a></li>
                                 <li><a ng-if="app.status != 'stopped'" href="#{{ app._id }}" data-toggle="modal" data-target="#stop_form" >Stop</a></li>
                                 <li><a ng-if="app.status != 'start'" href="#{{ app._id }}" data-toggle="modal"  ng-click='start(app)'>Start</a></li>
                                 <li><a href="#{{ app._id }}" ng-click='follow(app)'>Logs</a></li>

@@ -3,8 +3,8 @@ module.exports = config = {
     app_dir:__dirname + '/_test',
     proxy_port:3000,
     default_git_user:{
-        username:'schematical',
-        password:'t3acht3ach'
+        username:'schematical-bot',
+        password:'l3arnl3arn'
     },
     apps:{
         fish_tank: {
@@ -46,7 +46,7 @@ module.exports = config = {
                  */
                 path:'',
                 user:'schematical',
-                repo:'ghost'
+                repo:'ionic_ghost_theme'
             },
             //wd:'/var/www/NProxy/_test/fish_tank-master',
             /* process:{

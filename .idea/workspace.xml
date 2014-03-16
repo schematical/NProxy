@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/.profile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/setup_box.ssh" afterPath="$PROJECT_DIR$/bin/setup_box.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ghost-master.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_class.js" afterPath="$PROJECT_DIR$/lib/app_class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/app_list.html" afterPath="$PROJECT_DIR$/assets/view/app_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
@@ -50,7 +51,7 @@
     <file path="/app_deploy.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563349275" ignored="false" />
     <file path="/test.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394553414105" ignored="false" />
     <file path="/forever_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394562575754" ignored="false" />
-    <file path="/app_class.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394744885098" ignored="false" />
+    <file path="/app_class.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394976101520" ignored="false" />
     <file path="/a.dummy" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394652337719" ignored="false" />
     <file path="/app_manager.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394745425033" ignored="false" />
     <file path="/app_list.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394657460673" ignored="false" />
@@ -86,94 +87,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="app_list.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="13" selection-start="940" selection-end="987" vertical-scroll-proportion="-8.12">
+            <state line="80" column="130" selection-start="3407" selection-end="3407" vertical-scroll-proportion="-5.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_class.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app_class.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/app_class.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="68" selection-start="930" selection-end="930" vertical-scroll-proportion="32.4">
+            <state line="119" column="12" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.6576087">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="socket.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/socket.js">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="31" selection-start="3615" selection-end="3615" vertical-scroll-proportion="-11.12">
+            <state line="5" column="24" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_manager.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="13" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup_box.sh" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="62" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".profile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/.profile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="17" selection-start="502" selection-end="502" vertical-scroll-proportion="0.86206895">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="http-proxy.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="7" selection-start="3187" selection-end="3201" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blah.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_test/blah.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="7" selection-start="0" selection-end="3810" vertical-scroll-proportion="-109.375">
-              <folding>
-                <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -204,20 +140,20 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/assets/js/controllers.js" />
         <option value="$PROJECT_DIR$/lib/socket.js" />
-        <option value="$PROJECT_DIR$/assets/view/app_list.html" />
-        <option value="$PROJECT_DIR$/lib/app_class.js" />
-        <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/lib/app_manager.js" />
         <option value="$PROJECT_DIR$/_test/blah.html" />
         <option value="$PROJECT_DIR$/bin/.profile" />
         <option value="$PROJECT_DIR$/bin/setup_box.sh" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/assets/view/app_list.html" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/lib/app_class.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1302" />
+    <option name="x" value="64" />
     <option name="y" value="764" />
     <option name="width" value="1303" />
     <option name="height" value="773" />
@@ -290,7 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
+              <option name="myItemId" value="_test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,6 +241,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ionic_ghost_theme-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,6 +310,13 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" singleton="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.debug" />
       <RunnerSettings RunnerId="NodeJS.run" />
@@ -408,8 +355,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1302" y="764" width="1303" height="773" extended-state="6" />
-    <editor active="true" />
+    <frame x="64" y="764" width="1303" height="773" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -417,7 +364,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24701196" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24701196" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -558,13 +505,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="71" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-4.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/node_modules/eventemitter3/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="0" selection-start="735" selection-end="735" vertical-scroll-proportion="0.33231708">
@@ -579,25 +519,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1394745303526" expanded="true" signature="-1:-1" placeholder="{&quot;root_pass&quot;: 'testtest'...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vhost/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app_class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="68" selection-start="930" selection-end="930" vertical-scroll-proportion="32.4">
           <folding />
         </state>
       </provider>
@@ -637,12 +561,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_test/blah.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="7" selection-start="0" selection-end="3810" vertical-scroll-proportion="-109.375">
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="20" column="17" selection-start="502" selection-end="502" vertical-scroll-proportion="0.86206895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/.profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.12096774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="62" selection-start="718" selection-end="718" vertical-scroll-proportion="0.83286905">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -653,23 +589,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
+    <entry file="file://$PROJECT_DIR$/_test/blah.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="62" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0">
+        <state line="175" column="7" selection-start="0" selection-end="3810" vertical-scroll-proportion="7.113821">
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="130" selection-start="3407" selection-end="3407" vertical-scroll-proportion="-5.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/.profile">
+    <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+        <state line="5" column="24" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/lib/app_class.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="502" selection-end="502" vertical-scroll-proportion="0.86206895">
+        <state line="119" column="12" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.6576087">
           <folding />
         </state>
       </provider>

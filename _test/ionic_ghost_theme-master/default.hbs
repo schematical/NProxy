@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{! Document Settings }}
+
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+
+
+
+    {{! Page Meta }}
+    <title>{{meta_title}}</title>
+    <meta name="description" content="{{meta_description}}" />
+
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" /> -->
+
+    <link rel="shortcut icon" href="{{asset "favicon.ico"}}">
+
+    {{! Styles'n'Scripts }}
+    <link rel="stylesheet" type="text/css" href="{{asset "css/screen.css"}}" />
+        <!-- ionic css -->
+        <link href="{{asset "css/ionic.css"}}" rel="stylesheet">
+
+        <!-- your app's css -->
+        <link href="{{asset "css/app.css"}}" rel="stylesheet">
+
+        <!-- ionic/angularjs scripts -->
+        <script src="{{asset "js/ionic.bundle.js"}}"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.min.js"></script>
+
+
+        <!-- cordova script (this will be a 404 during development) -->
+        <!--<script src="cordova.js"></script>-->
+
+        <!-- your app's script -->
+        <script src="{{asset "js/app.js"}}"></script>
+        <script src="{{asset "js/services.js"}}"></script>
+        <script src="{{asset "js/controllers.js"}}"></script>
+
+        <script type="text/ng-template" id="test.html">
+            <h2> Add Order </h2>
+
+        </script>
+    {{! Ghost outputs important style and meta data with this tag }}
+    {{ghost_head}}
+</head>
+
+  <body ng-app="ionic.ghost.blog" ng-controller="post-controller" class='{{body_class}}'>
+
+    <!-- where the initial view template will be rendered -->
+      <ion-nav-view></ion-nav-view>
+
+ <ion-view title="'Home'">
+    <ion-header-bar
+    title="'{{@blog.title}}'"
+    left-buttons="leftButtons"
+    right-buttons="rightButtons" >
+
+      </ion-header-bar>
+
+
+      <ion-content
+        id='content'
+
+        has-footer="true"
+        on-scroll='on_scroll();'
+        >
+
+        {{! Everything else gets inserted here }}
+        {{{body}}}
+   </ion-content>
+   <div class='bg-holder' style='background-image:url("{{@blog.cover}}");  '></div>
+    <!-- Left menu -->
+         <div id="menu-left" class="menu menu-left" drag-content='false' is-enabled='false'>
+
+           <div class="list">
+             {{#foreach posts}}
+                <a href="#/posts{{url}}"  class="item">{{{title}}}</a>
+              {{/foreach}}
+           </div>
+         </div>
+    </ion-view>
+
+
+
+      <ion-footer-bar>
+
+            <div class="title">
+                <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{@blog.title}}</a> &copy; {{date format="YYYY"}} &bull; All rights reserved.</section>
+            </div>
+      </ion-footer-bar>
+
+
+    {{! Ghost outputs important scripts and data with this tag }}
+    {{ghost_foot}}
+
+</body>
+</html>
