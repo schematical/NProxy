@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fish_tank-master.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic_ghost_theme-master.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-stample.js" afterPath="$PROJECT_DIR$/config-stample.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/setup_box.sh" afterPath="$PROJECT_DIR$/bin/setup_box.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,7 +15,7 @@
     <file path="/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563369528" ignored="false" />
     <file path="/setup_box.ssh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394411817572" ignored="false" />
     <file path="/init.d.sh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394412148157" ignored="false" />
-    <file path="/README.md" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394981683054" ignored="false" />
+    <file path="/README.md" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394982547544" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/view/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394628592893" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/public/js/views/project/project_edit_tool.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394474557606" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/model/application.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394474691463" ignored="false" />
@@ -141,19 +143,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
+            <state line="14" column="34" selection-start="370" selection-end="370" vertical-scroll-proportion="0.5849582">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config-stample.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config-stample.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-stample.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="20" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.4568245">
+            <state line="51" column="77" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -190,9 +192,9 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/lib/app_class.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/bin/setup_box.sh" />
         <option value="$PROJECT_DIR$/config-stample.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -646,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="100" selection-start="756" selection-end="756" vertical-scroll-proportion="0.87743735">
@@ -669,7 +664,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config-stample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="20" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.4568245">
+        <state line="51" column="77" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="34" selection-start="370" selection-end="370" vertical-scroll-proportion="0.5849582">
           <folding />
         </state>
       </provider>

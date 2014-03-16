@@ -49,7 +49,7 @@ module.exports = config = {
                 /**
                  * On our end where this repo should be installed
                  */
-                deploy_to_dir:'/var/www/ghost/content/themes/git_ionic_test'
+                deploy_to_dir:'/var/www/ghost/content/themes/git_ionic_test',
                 /**
                  * Ref: the branch (Optional - Default: master)
                  */
