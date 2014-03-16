@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fish_tank-master.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ionic_ghost_theme-master.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-stample.js" afterPath="$PROJECT_DIR$/config-stample.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
@@ -146,7 +143,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="34" selection-start="370" selection-end="370" vertical-scroll-proportion="0.5849582">
+            <state line="7" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.2924791">
               <folding />
             </state>
           </provider>
@@ -671,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="370" selection-end="370" vertical-scroll-proportion="0.5849582">
+        <state line="7" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.2924791">
           <folding />
         </state>
       </provider>

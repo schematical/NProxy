@@ -5,8 +5,7 @@ The purpose of this project is to create an admin of sorts for multiple services
 At the moment this is setup for processes running on one server with multiple subdomains or vhosts sitting on it.
 
 ##Installing:
-###Step 1:
-Clone the repo
+
 ```clonegit@github.com:schematical/NProxy.git
 cd NProxy
 npm install
