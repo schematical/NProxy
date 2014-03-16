@@ -3,6 +3,11 @@ NProxy
 The purpose of this project is to create an admin of sorts for multiple services.
 
 At the moment this is setup for processes running on one server with multiple subdomains or vhosts sitting on it.
+======
+
+
+` REQUEST: your_first_app.com:80 => localhost:3001 `
+` REQUEST: your_second_app.com:80 => localhost:3002 `
 
 ##Installing:
 
@@ -11,14 +16,14 @@ cd NProxy
 npm install
 node app.js
 ```
-Now it should be running port 3080
+Now it should be running port **3080**
 
 ###Config:
 For the time being I do not have a dynamic interface for setting up the configuration file. Instead you will have to do it the old fashion way with a text editor. Here is an example:
 
-The config file [./config-sample.js] is well commented to help you get started.
+The [config file](./config-sample.js) is well commented to help you get started.
 
-
+__NOTE: Make sure to restart the server each time you edit the config file__
 
 
 ##Random Notes to myself:

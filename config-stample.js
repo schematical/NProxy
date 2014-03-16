@@ -47,16 +47,17 @@ module.exports = config = {
                  */
                 repo:'ionic_ghost_theme',
                 /**
-                 * On our end where this repo should be installed
+                 * (Optional)On our end where this repo should be installed
                  */
                 deploy_to_dir:'/var/www/ghost/content/themes/git_ionic_test',
                 /**
-                 * Ref: the branch (Optional - Default: master)
+                 * (Optional - Default: master)
+                 * the branch
                  */
                 ref:'master'
             },
             /**
-             * The directory where you want Forever to run the app from
+             * (Optional)The directory where you want Forever to run the app from
              */
             wd:'/var/www/NProxy/_test/ionic_ghost_theme-master',
             /**
