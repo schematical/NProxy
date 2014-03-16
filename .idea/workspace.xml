@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config-stample.js" afterPath="$PROJECT_DIR$/config-stample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,7 +12,7 @@
     <file path="/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563369528" ignored="false" />
     <file path="/setup_box.ssh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394411817572" ignored="false" />
     <file path="/init.d.sh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394412148157" ignored="false" />
-    <file path="/README.md" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394982799892" ignored="false" />
+    <file path="/README.md" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394982917421" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/view/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394628592893" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/public/js/views/project/project_edit_tool.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394474557606" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/model/application.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394474691463" ignored="false" />
@@ -134,7 +134,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="53" selection-start="326" selection-end="326" vertical-scroll-proportion="0.35526314">
+            <state line="31" column="0" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.6052632">
               <folding />
             </state>
           </provider>
@@ -659,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="53" selection-start="326" selection-end="326" vertical-scroll-proportion="0.35526314">
+        <state line="31" column="0" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.6052632">
           <folding />
         </state>
       </provider>
