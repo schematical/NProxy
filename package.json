@@ -18,6 +18,7 @@
         "request":"*",
         "unzip":"*",
         "hjs":"*",
-        "npm":"*"
+        "npm":"*",
+        "mkdirp":"*"
     }
 }
