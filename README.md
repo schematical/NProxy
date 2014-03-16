@@ -10,7 +10,7 @@ At the moment this is setup for processes running on one server with multiple su
 
 ` REQUEST: your_second_app.com:80 => localhost:3002 `
 
-I realize other non node tools exist for this purpos but screw it I wanted to add in [forever](https://github.com/nodejitsu/forever) and some other fun.
+I realize other non node tools exist for this purpose but screw it I wanted to add in [forever](https://github.com/nodejitsu/forever) and some other fun.
 
 ##Installing:
 
