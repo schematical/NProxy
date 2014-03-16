@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,7 +133,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.6052632">
+            <state line="5" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.19736843">
               <folding />
             </state>
           </provider>
@@ -659,7 +658,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.6052632">
+        <state line="5" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.19736843">
           <folding />
         </state>
       </provider>

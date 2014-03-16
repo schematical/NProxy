@@ -3,7 +3,7 @@ NProxy
 The purpose of this project is to create an admin of sorts for multiple services.
 
 At the moment this is setup for processes running on one server with multiple subdomains or vhosts sitting on it.
-======
+
 ###Example:
 
 ` REQUEST: your_first_app.com:80 => localhost:3001 `
