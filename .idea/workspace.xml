@@ -2,57 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/lib/asani2Html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/socket.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/cmd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/connection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/fish.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/fish_tank.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/logic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/lib/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/public/stylesheets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/public/stylesheets/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/public/views/index.hjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/routes/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0fish_tank-master/routes/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/cmd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/connection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/fish.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/fish_tank.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/logic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/lib/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/public/stylesheets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/public/stylesheets/style.styl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/public/views/index.hjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/routes/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_test/fish_tank-master/routes/user.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/view/_footer.hjs" afterPath="$PROJECT_DIR$/assets/view/_footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/view/_header.hjs" afterPath="$PROJECT_DIR$/assets/view/_header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/view/app_list.hjs" afterPath="$PROJECT_DIR$/assets/view/app_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_class.js" afterPath="$PROJECT_DIR$/lib/app_class.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/app_list.js" afterPath="$PROJECT_DIR$/routes/app_list.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_manager.js" afterPath="$PROJECT_DIR$/lib/app_manager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/controllers.js" afterPath="$PROJECT_DIR$/assets/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/services.js" afterPath="$PROJECT_DIR$/assets/js/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/.profile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/setup_box.ssh" afterPath="$PROJECT_DIR$/bin/setup_box.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394649521524" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394808373278" ignored="false" />
     <file path="/app.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394715899955" ignored="false" />
     <file path="/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563369528" ignored="false" />
     <file path="/setup_box.ssh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394411817572" ignored="false" />
@@ -63,11 +20,11 @@
     <file path="$PROJECT_DIR$/../vpr2/lib/model/application.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394474691463" ignored="false" />
     <file path="/application.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394474671392" ignored="false" />
     <file path="$PROJECT_DIR$/../planvault_dropbox_app/lib/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394479883893" ignored="false" />
-    <file path="$PROJECT_DIR$/../vpr2/lib/plugins/events/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394485285624" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/lib/plugins/events/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394807600099" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/plugins/events/application_worker.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394482009400" ignored="false" />
     <file path="/application_worker.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394482005180" ignored="false" />
-    <file path="$PROJECT_DIR$/../vpr2/routes/model/document_batch.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394483995349" ignored="false" />
-    <file path="/document_batch.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394483993173" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/routes/model/document_batch.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394807704272" ignored="false" />
+    <file path="/document_batch.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394807634653" ignored="false" />
     <file path="$PROJECT_DIR$/../planvault_dropbox_app/node_modules/planvault_api_client/lib/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394484373626" ignored="false" />
     <file path="$PROJECT_DIR$/../planvault_dropbox_app/lib/account_watcher.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394485647576" ignored="false" />
     <file path="/account_watcher.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394484558063" ignored="false" />
@@ -77,18 +34,18 @@
     <file path="/txt.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394487875226" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/config-sample.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394544643464" ignored="false" />
     <file path="/config-sample.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394544635608" ignored="false" />
-    <file path="$PROJECT_DIR$/../vpr2/lib/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394544648579" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/lib/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394822869825" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/plugins/super_admin.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394546796152" ignored="false" />
     <file path="/super_admin.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394546772348" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394545747949" ignored="false" />
-    <file path="$PROJECT_DIR$/../vpr2/routes/admin/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394547154021" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/routes/admin/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394807600099" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/lib/model/account.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394546830464" ignored="false" />
     <file path="/account.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394546830464" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/routes/developers/index.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394547299043" ignored="false" />
     <file path="$PROJECT_DIR$/../vpr2/public/templates/_main_nav.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394548044771" ignored="false" />
     <file path="/_main_nav.hjs" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394548044771" ignored="false" />
     <file path="/config.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394745300075" ignored="false" />
-    <file path="/package.json" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394651448777" ignored="false" />
+    <file path="/package.json" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394973868626" ignored="false" />
     <file path="/app_list.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394654594816" ignored="false" />
     <file path="/app_deploy.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394563349275" ignored="false" />
     <file path="/test.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394553414105" ignored="false" />
@@ -106,6 +63,10 @@
     <file path="/app_list.html" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394744323128" ignored="false" />
     <file path="/socket.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394744254266" ignored="false" />
     <file path="/remove.html" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394718677809" ignored="false" />
+    <file path="/document.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394808979396" ignored="false" />
+    <file path="$PROJECT_DIR$/../vpr2/lib/model/document.js" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394808982005" ignored="false" />
+    <file path="/.profile" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394973546024" ignored="false" />
+    <file path="/setup_box.sh" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1394973606646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +116,34 @@
       <file leaf-file-name="app_manager.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="4" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+            <state line="39" column="13" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup_box.sh" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="62" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".profile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/.profile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="17" selection-start="502" selection-end="502" vertical-scroll-proportion="0.86206895">
               <folding />
             </state>
           </provider>
@@ -170,29 +158,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="0" selection-start="2851" selection-end="2851" vertical-scroll-proportion="0.85714287">
+            <state line="118" column="7" selection-start="3187" selection-end="3201" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_list.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
+      <file leaf-file-name="blah.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_test/blah.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="71" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-4.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="20" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="175" column="7" selection-start="0" selection-end="3810" vertical-scroll-proportion="-109.375">
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,10 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/assets/js/controlers.js" />
-        <option value="$PROJECT_DIR$/assets/view/app_list.hjs" />
-        <option value="$PROJECT_DIR$/assets/js/app.js" />
         <option value="$PROJECT_DIR$/assets/view/_header.hjs" />
         <option value="$PROJECT_DIR$/routes/app_list.js" />
         <option value="$PROJECT_DIR$/assets/js/services.js" />
@@ -231,12 +208,16 @@
         <option value="$PROJECT_DIR$/lib/app_class.js" />
         <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/lib/app_manager.js" />
+        <option value="$PROJECT_DIR$/_test/blah.html" />
+        <option value="$PROJECT_DIR$/bin/.profile" />
+        <option value="$PROJECT_DIR$/bin/setup_box.sh" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
+    <option name="x" value="-1302" />
     <option name="y" value="764" />
     <option name="width" value="1303" />
     <option name="height" value="773" />
@@ -295,64 +276,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="underscore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http-proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http-proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -367,19 +290,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http-proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http-proxy" />
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,37 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http-proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http-proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="passes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NProxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="_test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -527,7 +408,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="764" width="1303" height="773" extended-state="6" />
+    <frame x="-1302" y="764" width="1303" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -536,12 +417,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24701196" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24701196" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -677,34 +558,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/forever/lib/forever/worker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="2341" selection-end="2341" vertical-scroll-proportion="0.33231708">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="883" selection-end="945" vertical-scroll-proportion="0.31232092">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/forever/lib/forever.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="456" column="0" selection-start="12186" selection-end="12186" vertical-scroll-proportion="0.31232092">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/forever-monitor/lib/forever-monitor/monitor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="0" selection-start="5302" selection-end="5302" vertical-scroll-proportion="0.2773537">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/app_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="71" selection-start="1914" selection-end="1914" vertical-scroll-proportion="-4.375">
@@ -729,7 +582,9 @@
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="20" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1394745303526" expanded="true" signature="-1:-1" placeholder="{&quot;root_pass&quot;: 'testtest'...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -761,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/socket.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="113" column="31" selection-start="3615" selection-end="3615" vertical-scroll-proportion="-11.12">
@@ -784,7 +632,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="0" selection-start="2851" selection-end="2851" vertical-scroll-proportion="0.85714287">
+        <state line="118" column="7" selection-start="3187" selection-end="3201" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_test/blah.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="7" selection-start="0" selection-end="3810" vertical-scroll-proportion="-109.375">
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="13" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="62" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/.profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="17" selection-start="502" selection-end="502" vertical-scroll-proportion="0.86206895">
           <folding />
         </state>
       </provider>

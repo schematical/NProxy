@@ -19,3 +19,8 @@ sudo apt-get install git
 
 sudo apt-get install mongodb-10gen
 
+#--------------------GIT KEY GENERATION---------------------##
+#You may need to run this manually
+ssh-keygen -t rsa -C "mlea@schematical.com"
+
+

@@ -17,6 +17,7 @@
         "forever":"*",
         "request":"*",
         "unzip":"*",
-        "hjs":"*"
+        "hjs":"*",
+        "npm":"*"
     }
 }
