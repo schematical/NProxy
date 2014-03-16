@@ -19,6 +19,9 @@ sudo apt-get install git
 
 sudo apt-get install mongodb-10gen
 
+#The following code forwards all traffic over port 80 to 3000 so you do not need to run node as root
+sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 3000
+
 #--------------------GIT KEY GENERATION---------------------##
 #You may need to run this manually
 ssh-keygen -t rsa -C "mlea@schematical.com"

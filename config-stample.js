@@ -1,65 +1,85 @@
 module.exports = config = {
+    /**
+     * NOT ACTUALLY YOUR ROOT PASS.
+     * Right now this is the password the WWW interface propts for before shutting down an app
+     */
     root_pass:'testtest',
-    app_dir:__dirname + '/_test',
+    /**
+     * This is the directory that the apps you create will be installed into
+     */
+    app_dir:__dirname + '/apps',
+    /**
+     * This is the port your traffic will be running on. 80 Obviously should forward to this port.
+     * Ubuntu Users: Look at the bottom of the /bin/setup_box.sh for the code to do it
+     */
     proxy_port:3000,
+    /**
+     * If your project is not public you will need to authenticate with Github to get the project
+     * I actually recomend setting up a proxy account and share with it as a colaborator
+     */
     default_git_user:{
-        username:'schematical-bot',
-        password:'l3arnl3arn'
+        username:'your_proxies_git_hub_username',
+        password:'your_proxies_git_hub_password'
     },
+    /**
+     * Here is the big shabang. Where all of the apps are registered. YOu can run as many apps as you can fit on the box here.
+     */
     apps:{
-        fish_tank: {
-            name:'Welcome to the Fishtank',
-            github:{
-                /* user (String): Required.
-                 *  - repo (String): Required.
-                 *  - path (String): Optional. The content path.
-                 *  - ref (String): Optional. The String name of the Commit/Branch/Tag. Defaults to master.
-                 */
-               path:'',
-               user:'schematical',
-               repo:'fish_tank'
-            },
-            wd:'/var/www/NProxy/_test/fish_tank-master',
-           /* process:{
-                id:'fish_tank'
-            },*/
-            script:'app.js',
-            local:true,
-
-            route:{
-                from:{
-                    alias:'fishtank.schematical.com'
-                },
-                to:{
-                    host:'localhost',
-                    port:3002
-                }
-            }
-        },
+        /**
+         * This is an example using the demo of one of my themes on Theme Forrest
+         */
         vanilla_ionic:{
+            /**
+             * Just a brief description. Not used much
+             */
             name:'Vanilla Ionic Ghost Theme',
+            /**
+             * The github info where the repo is
+             */
             github:{
-                /* user (String): Required.
-                 *  - repo (String): Required.
-                 *  - path (String): Optional. The content path.
-                 *  - ref (String): Optional. The String name of the Commit/Branch/Tag. Defaults to master.
-                 */
                 path:'',
+                /**
+                 * User: The account under which the project is owned
+                 */
                 user:'schematical',
+                /**
+                 * Repo: The repo id
+                 */
                 repo:'ionic_ghost_theme',
+                /**
+                 * On our end where this repo should be installed
+                 */
                 deploy_to_dir:'/var/www/ghost/content/themes/git_ionic_test'
+                /**
+                 * Ref: the branch (Optional - Default: master)
+                 */
+                ref:'master'
             },
-            //wd:'/var/www/NProxy/_test/fish_tank-master',
-            /* process:{
-             id:'fish_tank'
-             },*/
+            /**
+             * The directory where you want Forever to run the app from
+             */
+            wd:'/var/www/NProxy/_test/ionic_ghost_theme-master',
+            /**
+             * The script location
+             */
             script:'index.js',
-            local:true,
-
+            /**
+             * This is important. This is the information for the proxy
+             */
             route:{
+                /**
+                 * From:
+                 * Info on filtering out vhosts that point to this server
+                 */
                 from:{
+                    /**
+                     * The vhost of the request that comes in on port 80-->3000-->??
+                     */
                     alias:'vanillaionic.schematical.com'
                 },
+                /**
+                 * TO: Info on where requests will be routed to
+                 */
                 to:{
                     host:'localhost',
                     port:3003
