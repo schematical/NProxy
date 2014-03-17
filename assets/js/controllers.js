@@ -4,6 +4,7 @@ var NProxyApp = angular.module('nproxy.controllers',['ansiToHtml', 'ngSanitize']
 NProxyApp.controller('nproxy.app_list', function ($scope, Apps, ansi2html) {
     $scope.logs = {};
     $scope.start = function(app){
+        $scope.follow(app);
         Apps.emit('start', {
             app:app
         });
@@ -48,12 +49,15 @@ NProxyApp.controller('nproxy.app_list', function ($scope, Apps, ansi2html) {
 });
 NProxyApp.controller('nproxy.deploy_form', function ($scope, Apps) {
     $scope.deploy = function(app){
-        Apps.deploy(app._id);
+        $scope.follow(app);
+        socket.emit('deploy', { app_id:app._id });
+
     }
 });
 NProxyApp.controller('nproxy.stop_form', function ($scope, Apps) {
-    $scope.root_pass = 'xxx';
+
     $scope.stop = function(app){
+        $scope.follow(app);
         Apps.emit('stop', {
             app:app,
             root_pass: $scope.root_pass
