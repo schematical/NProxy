@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_class.js" afterPath="$PROJECT_DIR$/lib/app_class.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/controllers.js" afterPath="$PROJECT_DIR$/assets/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/services.js" afterPath="$PROJECT_DIR$/assets/js/services.js" />
-    </list>
+    <list default="true" id="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" name="Default" comment="" />
     <ignored path="NProxy.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1b8e2e11-c5ba-4e54-8375-eb80bed28b7a" time="1395063540883" ignored="false" />
@@ -91,10 +87,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="setup_box.sh" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="setup_box.sh" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="131" selection-start="1071" selection-end="1202" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="757" selection-end="844" vertical-scroll-proportion="0.47244096">
               <folding />
             </state>
           </provider>
@@ -127,10 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="245" selection-end="245" vertical-scroll-proportion="0.2284264">
+            <state line="6" column="27" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -193,7 +189,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1302" />
+    <option name="x" value="64" />
     <option name="y" value="764" />
     <option name="width" value="1303" />
     <option name="height" value="773" />
@@ -413,7 +409,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1302" y="764" width="1303" height="773" extended-state="6" />
+    <frame x="64" y="764" width="1303" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -600,13 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="131" selection-start="1071" selection-end="1202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_manager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="81" column="7" selection-start="2261" selection-end="2261" vertical-scroll-proportion="0.0">
@@ -637,7 +626,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="245" selection-end="245" vertical-scroll-proportion="0.2284264">
+        <state line="6" column="27" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/setup_box.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="757" selection-end="844" vertical-scroll-proportion="0.47244096">
           <folding />
         </state>
       </provider>
