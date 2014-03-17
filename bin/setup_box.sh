@@ -27,3 +27,18 @@ sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-po
 ssh-keygen -t rsa -C "mlea@schematical.com"
 
 
+
+#---------------------MONGO---------------------------------##
+mongo
+
+use admin
+db.addUser( { user: "turis", pwd: "b3nd3rRul3z", roles: [ "dbAdminAnyDatabase", "userAdminAnyDatabase", "readWriteAnyDatabase" ] } )
+exit
+
+sudo vim /etc/mongodb.conf
+#Un comment the 'auth' parameter
+
+sudo service mongo restart
+
+#-----------------------important node js Modules--------------------------------##
+npm install forever -g
